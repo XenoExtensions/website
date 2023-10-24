@@ -16,36 +16,9 @@
 -->
 
 <script lang="ts">
-	import { onMount } from "svelte";
-	import hjson from "hjson";
 	import MarkdownDisplay from "$lib/components/MarkdownDisplay.svelte";
-
-	export let data;
-
-	let extension: Extension | undefined;
-
-	onMount(() => {
-		fetch('/extensions.hjson')
-			.then(async res => {
-				const jsonData = <Extension[]> hjson.parse(await res.text())
-				extension = jsonData.find(x => {
-					return x.id == data.id
-				})
-			})
-	});
 </script>
 
 <div class="container has-text-centered">
-	<img src={`/logos/${data.id}.png`} alt="Logo" id="logo" />
-	<MarkdownDisplay url={`/pages/${data.id}.md`} />
+	<MarkdownDisplay url="/tubetweaks-migration.md" />
 </div>
-
-<svelte:head>
-	<title>{extension?.name} | XenoExtensions</title>
-</svelte:head>
-
-<style>
-	#logo {
-		width: 10rem;
-	}
-</style>
