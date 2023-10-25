@@ -42,19 +42,18 @@ If you want to use TubeTweaks to its full extent, please consider switching to F
 
 ### Download
 
-<!-- 
-<a href="#" rel="nofollow noreferrer" target="_blank">
+<a href="https://addons.mozilla.org/en-US/firefox/addon/tubetweaks/" rel="nofollow noreferrer" target="_blank">
 	<button class="button is-warning"><i class="fa-brands fa-firefox-browser"></i> Firefox</button>
 </a>
 
+
 <a href="#" rel="nofollow noreferrer" target="_blank">
-	<button class="button is-warning"><i class="fa-brands fa-chrome"></i> Chromium</button>
+	<button class="button is-warning" disabled><i class="fa-brands fa-chrome"></i> Chromium (Coming Soon)</button>
 </a>
- -->
+ 
 
 <a href="https://github.com/XenoExtensions/TubeTweaks" rel="nofollow noreferrer" target="_blank">
 	<button class="button is-warning"><i class="fa-brands fa-github"></i> Source Code</button>
 </a>
 
-#### Coming soon to a Webstore near you!
 
