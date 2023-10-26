@@ -47,8 +47,8 @@ If you want to use TubeTweaks to its full extent, please consider switching to F
 </a>
 
 
-<a href="#" rel="nofollow noreferrer" target="_blank">
-	<button class="button is-warning" disabled><i class="fa-brands fa-chrome"></i> Chromium (Coming Soon)</button>
+<a href="https://chrome.google.com/webstore/detail/tubetweaks/koeneempjjdapfahdiglknlhlnmcjoea" rel="nofollow noreferrer" target="_blank">
+	<button class="button is-warning"><i class="fa-brands fa-chrome"></i> Chromium</button>
 </a>
  
 
