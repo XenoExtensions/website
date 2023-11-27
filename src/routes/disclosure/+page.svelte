@@ -27,7 +27,7 @@
 			Germany<br />
 
 			<strong>Phone:</strong>
-			+49 160 897 883 4<br />
+			+49 172 907 5536<br />
 
 			<strong>Email:</strong>
 			<a href="mailto:business@xenorio.xyz">business@xenorio.xyz</a>
