@@ -22,8 +22,8 @@
 		<h3>Representative</h3>
 		<p>
 			Marcus Huber<br />
-			Schlesierstraße 3<br />
-			64546 Mörfelden-Walldorf<br />
+			Stromtal 2<br />
+			38226 Salzgitter<br />
 			Germany<br />
 
 			<strong>Phone:</strong>
@@ -35,8 +35,7 @@
 
 		<h3>Business Information</h3>
 		<p>
-			Xenorio - Management<br />
-			Kleinunternehmen (as per German law)<br/>
+			Xenorio Industries<br />
 			Internet Services
 		</p>
 
